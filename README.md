@@ -1,5 +1,5 @@
 # angular-pagination-plugin
-Pagination plugin for angular js
+Server side pagination plugin for angular js
 
 Inside your controller inject $pagination and use it as below
 
